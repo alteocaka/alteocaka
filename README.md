@@ -2,9 +2,9 @@
 
 ### I'm a bachelors student, currently studying Bussiness Informatics!
 
-- 🔭 At the moment I am working on my own fitness app with Angular.
+- 💻 At the moment I am working on my own fitness app with Angular.
 - 🌱 I’m currently learning PHP.
-- 👯 I’m looking for new opportunities and meeting new people.
+- 😄 I’m looking for new opportunities and meeting new people.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ I love rock music and working out.
 
