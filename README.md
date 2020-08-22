@@ -53,8 +53,8 @@
 <br />
 
 [website]: https://alteocaka.me
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/alteocaka
+[youtube]: https://youtube.com/alteocaka
+[instagram]: https://instagram.com/alteocaka
+[linkedin]: https://linkedin.com/in/alteocaka
 
