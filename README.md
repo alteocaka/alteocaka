@@ -1,13 +1,5 @@
 ## Hi there, I'm Alteo, thanks for passing by 👋
 
-### I'm a bachelors student, currently studying Bussiness Informatics!
-
-- 💻 At the moment I am working on my own fitness app with Angular.
-- 🌱 I’m currently learning PHP.
-- 😄 I’m looking for new opportunities and meeting new people.
-- ⚡ I love rock music and working out.
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
