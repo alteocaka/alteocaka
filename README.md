@@ -1,25 +1,24 @@
-## Hi there, I'm Alteo, thanks for passing by 👋
+## Hi there I'm Alteo, thanks for passing by 👋
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### Languages, Frameworks and Tools:
 
 
 #### Frontend:
-<img align="left" alt="HTML5" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
-<img align="left" alt="CSS3" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="32px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img align="left" alt="Angular" width="32px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />
+<img align="left" alt="HTML5" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+<img align="left" alt="CSS3" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
+<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Bootstrap" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
 <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br /> 
@@ -28,6 +27,7 @@
 <img align="left" alt="Nest JS" width="32px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_256x256@2x.png" />
+<img align="left" alt="MySQL" width="40px" src="https://labs.mysql.com/common/logos/mysql-logo.svg" />
 <img align="left" alt="Firebase" width="32px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />
 
 <br /> 
