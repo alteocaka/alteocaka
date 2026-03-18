@@ -15,7 +15,5 @@ Software Developer with an academic background in Information Security and exten
 * **MSc in Information Security** – University of Tirana
 * **BSc in Informatic Economics** – University of Tirana
 
-<br/>
-
 ### 🤝 Contact
 [LinkedIn](https://linkedin.com/in/alteocaka/) • [Email](mailto:alteo.caka@gmail.com)
