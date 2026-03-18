@@ -1,40 +1,25 @@
-# Hi, I'm Alteo 👋 
+# Alteo Caka
 
-**Full-Stack Software Developer | Angular & NestJS Specialist**
+**Full-Stack Software Developer | Specialized in Angular & NestJS**
 
-I am a results-driven Full-Stack Developer based in Tirana, Albania, with a Master's in Information Security. I specialize in building scalable, high-performance web applications using the TypeScript ecosystem. My focus is on clean architecture, performance optimization (Core Web Vitals), and integrating AI-powered tools to solve complex business problems.
-
----
-
-### 🛠️ Technical Toolbox
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | Angular (v2+), RxJS, NgRx, TypeScript, Tailwind CSS, Ionic |
-| **Backend** | Node.js, NestJS, REST, GraphQL, Microservices |
-| **Database** | PostgreSQL, MySQL, MongoDB, Firebase, Supabase |
-| **Security & Dev** | Information Security, CI/CD, Git, Agile (Jira), Appian (Low-Code) |
-| **UI Libraries** | Material, PrimeNG, Taiga UI, NG-Zorro, DaisyUI |
+Software Developer with an academic background in Information Security and extensive experience in building enterprise-grade web applications. I focus on developing modular, maintainable architectures within the TypeScript ecosystem, leveraging high-performance frontend frameworks and scalable backend services.
 
 ---
 
-### 📈 Current Focus
-- 🏗️ Developing enterprise-grade Angular 16+ applications with Signals and Standalone components.
-- 🔐 Implementing advanced auth workflows (OAuth, Magic Links) via Supabase.
-- 🤖 Integrating OpenAI APIs to enhance web application functionality.
-- ⚡ Optimizing web performance using Lighthouse and Core Web Vitals metrics.
+### 🛠️ Technical Expertise
+
+* **Frontend:** Angular (Signals, NgRx, RxJS), Tailwind CSS, Ionic, Performance Optimization (Lighthouse/CWV)
+* **Backend:** Node.js, NestJS (REST, GraphQL, Microservices), Appian BPM
+* **Data:** PostgreSQL, MySQL, MongoDB, Supabase, Firebase
+* **Security & DevOps:** Information Security, JWT/RBAC, CI/CD, Git Workflows, Agile (Jira)
 
 ---
 
-### 🎓 Education & Background
-- **MSc in Information Security** – University of Tirana
-- **BSc in Informatic Economics** – University of Tirana
-- **Languages:** English (C2), German (A2), Italian (A2)
+### 🎓 Education
+* **MSc in Information Security** – University of Tirana
+* **BSc in Informatic Economics** – University of Tirana
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Contact
 [LinkedIn](https://linkedin.com/in/alteocaka/) • [Email](mailto:alteo.caka@gmail.com)
-
----
-*“I build solutions that are fast, reliable, and built to last.”*
