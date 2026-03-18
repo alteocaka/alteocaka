@@ -1,6 +1,6 @@
 # Alteo Caka
 
-**Full-Stack Software Developer | Specialized in Angular & NestJS**
+**Full-Stack Software Developer | Specialized in Angular & Node JS**
 
 Software Developer with an academic background in Information Security and extensive experience in building enterprise-grade web applications. I focus on developing modular, maintainable architectures within the TypeScript ecosystem, leveraging high-performance frontend frameworks and scalable backend services.
 
